@@ -17,3 +17,5 @@ Make the script executable with the command chmod +x server-stats.sh.
 Run the script with ./server-stats.sh.
 
 The script will output the server performance statistics to the console.
+
+This project is to fulfill this: https://roadmap.sh/projects/server-stats
